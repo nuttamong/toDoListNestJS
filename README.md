@@ -86,7 +86,7 @@ Check out a few resources that may come in handy when working with NestJS:
 
 
 ## Video Test Project
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Vc170TTuMV8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vc170TTuMV8/0.jpg)](https://www.youtube.com/watch?v=Vc170TTuMV8)
 
 ## Support
 
