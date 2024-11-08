@@ -25,7 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. 
-Project: To Do List back-end this project have authentication for user to create and edit Their task
+Project: To Do List back-end. This project have authentication for user to create and edit Their task
+database is MongoDB run on docker
 
 ## Video Test Project
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vc170TTuMV8/0.jpg)](https://www.youtube.com/watch?v=Vc170TTuMV8)
